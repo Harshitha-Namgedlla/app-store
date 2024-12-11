@@ -1,5 +1,5 @@
 
-Here’s a powerful project description for your **App Store project** that you can paste directly into your GitHub repository’s **README.md** file. It explains the purpose, features, and technologies used in the project:
+**App Store project**  It explains the purpose, features, and technologies used in the project:
 
 ---
 
